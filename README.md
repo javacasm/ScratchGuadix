@@ -1,9 +1,14 @@
-# Scratch, aprender programando [191813GE031](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
+# Scratch, aprender programando [(191813GE031)](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/191813GE031/) 
 
 ## CEP Guadix
 
 ### José Antonio Vacas @javacasm
 
+[![CCbySA](imagenes/CCbySQ_88x31.png)](./imagenes/Licencia_CC.png)
+
+## https://github.com/javacasm/ScratchGuadix
+
+* * * 
 
 
 ## Objetivos
@@ -35,26 +40,35 @@ Scratch es una aplicación gratuita, un proyecto de Lifelong Kindergarten Group 
 |05/02/2019|16:30 - 19:30|
 |13/02/2019|16:30 -	19:30|
 
-# Versiones:
+## Justificación
 
-* Online [https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/)
-* Editor de escritorio (Windows y MacOS) [https://scratch.mit.edu/download](https://scratch.mit.edu/download)
-* Scratch Jr [https://www.scratchjr.org/](https://www.scratchjr.org/)
+![Scratch](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Scratch_2.0_Screen_Hello_World.png/640px-Scratch_2.0_Screen_Hello_World.png)
 
-## Extensiones
 
-Scratch Link permite conectar Scratch 3.0 con hardware de otros fabricantes
-* Lego
-* Lego Wedo
-* Microbit
+Scratch (https://scratch.mit.edu/) es un software creado por el MIT (Massachusetts Institute Technology) con el fin de enseñar a programar de un modo visual especialmente a niños y jóvenes.
 
-## Ideas y tutoriales
+Los programas se realizan uniendo los diferentes bloques encajables en un entorno integrado que incluye a la vez todo lo necesario para completar el programa.
 
-Tutoriales incluidos
 
-[Ideas](https://scratch.mit.edu/ideas)
+El uso de herramientas visuales permite a los alumnos asimilar fácilmente el paradigma de la programación y poner en práctica sus ideas.
 
-[Explorar proyectos](https://scratch.mit.edu/explore/projects/all)
+Cada vez más utilizado en el entorno docente se ha mostrado como una excelente [herramienta pedagógica](./contexto.md), prueba de ello es la cantidad de experiencias disponibles en la [comunidad online](https://scratch.mit.edu/explore/projects/all).
+
+## Indice
+
+* [¿Por qué programar?](./contexto.md)
+* Presentación de [herramientas de programación visual para los más pequeños: Code.org](./Bloques.md)
+* Introducción a Scratch (y [alternativas como Snap](./snap.md))
+* [Programando con Scratch](./Scratch.md):
+  * [Dibujando con Scratch](./Scratch.md#vamos-a-dibujar)
+  * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
+  * [Sonidos y animaciones](./Scratch.md#sonido)
+* [Ejemplos de juegos con scratch](./Ejemplos.md)
+
+
+## [Recursos](./recursos.md)
+
+## [OpenSource](./opensource.md)
 
 ## "Cosas generales"
 
