@@ -15,17 +15,32 @@
 ### Es un entorno de programación creado en el **MIT** por [Mitchel Resnick](https://www.media.mit.edu/people/mres)
 ([A Different Approach to Coding](https://medium.com/bright/a-different-approach-to-coding-d679b06d83a#.734u3gfm8) y [su mágnifica charla TED](https://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code?language=es))
 
-Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y como [aplicación de escritorio](https://scratch.mit.edu/scratch2download/).
+## Versiones
 
-[(Hay 2 versiones para usar offline: la 1.4 y la 2.0)](./versiones.md)
+* Online [https://scratch.mit.edu/projects/editor/](https://scratch.mit.edu/projects/editor/)
+* Editor de escritorio (Windows y MacOS) [https://scratch.mit.edu/download](https://scratch.mit.edu/download)
+* Scratch Jr [https://www.scratchjr.org/](https://www.scratchjr.org/)
+
+Podemos usarlo desde [acceso web](https://scratch.mit.edu/projects/editor) y como [aplicación de escritorio en Windows y MacOs](https://scratch.mit.edu/scratch2download/).
+
+[(Hay 2 versiones antiguas para usar offline: la 1.4 y la 2.0)](./versiones.md)
 
 La versión 2.0 usa tecnología propietaria de Adobe (Air), por lo podría no funcionar en todos los dispositivos
+
+## Extensiones
+
+Scratch Link permite conectar Scratch 3.0 con hardware de otros fabricantes
+* Lego
+* Lego Wedo
+* Microbit
+
+
 
 Existe una enorme [comunidad](https://scratch.mit.edu/starter_projects/)
 
 ## Interface
 
-![interface](./imagenes/scratch-interfaz.png)
+![interface](http://i.cubeupload.com/hJlBEu.png)
 
 ## Bloques
 
