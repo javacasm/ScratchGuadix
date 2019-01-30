@@ -42,7 +42,7 @@ Scratch es una aplicación gratuita, un proyecto de Lifelong Kindergarten Group 
 
 ## Justificación
 
-![Scratch](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Scratch_2.0_Screen_Hello_World.png/640px-Scratch_2.0_Screen_Hello_World.png)
+![Scratch](https://user-images.githubusercontent.com/3409578/37989797-68fd7784-31d2-11e8-9c54-93803943415e.png)
 
 
 Scratch (https://scratch.mit.edu/) es un software creado por el MIT (Massachusetts Institute Technology) con el fin de enseñar a programar de un modo visual especialmente a niños y jóvenes.
