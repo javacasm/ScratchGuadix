@@ -70,8 +70,4 @@ Cada vez más utilizado en el entorno docente se ha mostrado como una excelente 
 
 ## [OpenSource](./opensource.md)
 
-## "Cosas generales"
 
-* Podemos ejecutar un bloque haciendo doble click
-* Podemos incluir extensiones (Scratch Link)
-* 
