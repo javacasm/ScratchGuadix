@@ -66,7 +66,7 @@ Cada vez más utilizado en el entorno docente se ha mostrado como una excelente 
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 
 
-## [Recursos](./recursos.md)
+## [Recursos](./Recursos.md)
 
 [Curso de Scratch 3.0 de Programamos](https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg)
 
