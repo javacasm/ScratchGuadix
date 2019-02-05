@@ -68,6 +68,10 @@ Cada vez más utilizado en el entorno docente se ha mostrado como una excelente 
 
 ## [Recursos](./recursos.md)
 
+[Curso de Scratch 3.0 de Programamos](https://www.youtube.com/playlist?list=PL_nprC45Ob5vKfOf-F1754Ou5ZTsG73Qg)
+
+[Cursos de Scratch de Programo Ergo Sum](https://www.programoergosum.com/cursos-online/scratch)
+
 ## [OpenSource](./opensource.md)
 
 
